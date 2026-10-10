@@ -1,0 +1,5 @@
+# Created at 2026-01-31T13:53:43.014
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Programming\IdeaProjects\Filipesz-CORE\Filipesz-LIFESTEALSMP\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
